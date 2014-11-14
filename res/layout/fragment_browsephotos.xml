@@ -61,7 +61,7 @@
     <ImageView
         android:id="@+id/browse_gallery_imageview"
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="fill_parent"
         android:layout_gravity="center"
         android:layout_above="@id/browsephotos_buttons"
         android:layout_marginBottom="@dimen/activity_vertical_margin"
