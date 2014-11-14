@@ -39,7 +39,7 @@ public class PhotoBrowserFragment extends Fragment {
 		
 		super.onAttach(activity);
 		((MainActivity) activity).onSectionAttached(MainActivity.BROWSEPHOTOS_FRAGMENT_POSITION);
-		LaunchGallery();
+	//	LaunchGallery();
 	}
 	
 	@Override
